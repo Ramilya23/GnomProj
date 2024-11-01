@@ -20,7 +20,7 @@ namespace GnomProj
             }
             else
             {
-                await DisplayAlert("позор", "вы ввели кринж", "ок");
+                await DisplayAlert("Ошибка!", "Заполните все поля", "ок");
             }
             
 
